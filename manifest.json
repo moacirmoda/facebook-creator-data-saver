@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Facebook Creator Data Saver",
+    "description": "Salva dados do Facebook Creator",
+    "author": "Moacir Moda",
+    "browser_action": {
+        "default_title": "Facebook Creator Data Saver",
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
